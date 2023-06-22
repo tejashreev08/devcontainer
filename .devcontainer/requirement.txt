@@ -1,0 +1,11 @@
+hvac==0.10
+atlasclient
+google-cloud-storage==1.32.0
+google-cloud-dataproc==4.0.2
+slack-sdk==3.6.0
+slackclient==2.9.4
+pydruid==0.6.2
+apache-airflow-providers-google==6.8.0
+apache-airflow-providers-slack==4.2.3
+apache-airflow-providers-apache-hive==2.3.2
+apache-airflow-providers-hashicorp==2.2.0
